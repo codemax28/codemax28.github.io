@@ -28,6 +28,10 @@ html {
 	}
 }
 
+.fa-spin-hover:hover {
+    animation: fa-spin 2s infinite linear;
+}
+
 .icons-social i {
 	font-size: 3em;
 }
